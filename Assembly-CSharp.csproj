@@ -63,6 +63,7 @@
     <Analyzer Include="C:\Users\jwilc\Desktop\College work\CITA212-01 Awadat\Unity Projects\Game01_DeliveryDash\Library\PackageCache\com.unity.dt.app-ui@7b87c8225c06\Runtime\SourceGenerators\netstandard2.0\EnumToLowerCase.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Collision.cs" />
     <Compile Include="Assets\Driver.cs" />
   </ItemGroup>
   <ItemGroup>
